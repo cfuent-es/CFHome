@@ -124,15 +124,6 @@ a {
 }
 
 @media screen and (max-width: 600px) {
-    /*.sidebar {
-        width: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        transform: translateX(-100%);
-        z-index: 1;
-    }*/
-
     .sidebar {
         display: none;
     }
